@@ -2,7 +2,7 @@ import { Button, Card, CardActions, CardContent,  Typography } from '@mui/materi
 import React from 'react'
 import { makeStyles } from '@mui/styles'
 import blog5 from '../images/blog5.jpg'
-import { textAlign } from '@mui/system'
+ 
  
 
 const useStyles=makeStyles({
