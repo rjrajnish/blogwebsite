@@ -8,7 +8,7 @@ import { FeaturedPost } from './Componant/FeaturedPost';
 import { featuredPosts, sidebar } from './Data/Data';
 import { PostCard } from './Componant/PostCard';
  
-import { makeStyles } from '@mui/styles';
+ 
 import { Main } from './Componant/Main';
 import { Sidebar } from './Componant/Sidebar';
 import { Footer } from './Componant/Footer';
